@@ -1,4 +1,5 @@
 # Hello-DynEd
+<<<<<<< 382cfb7666eaa5b3e5f58b2cd3574a94f46c6bd8
 Om Broto
 abc
 makan sabun
@@ -43,3 +44,6 @@ line 3
 line 3
 line 3
 line 3
+=======
+save
+>>>>>>> terserah
